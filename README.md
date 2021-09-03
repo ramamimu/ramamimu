@@ -1,6 +1,8 @@
-<img src="https://github.com/ramamimu/ramamimu/blob/main/oke_(1)%5B1%5D.gif">
-### Hi there 👋
-
+<p align="center">
+  <img src="https://github.com/ramamimu/ramamimu/blob/main/oke_(1)%5B1%5D.gif">
+</p>
+<!-- ### Hi there 👋
+ -->
 <!--
 **ramamimu/ramamimu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
