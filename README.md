@@ -1,3 +1,4 @@
+<img src="https://github.com/ramamimu/ramamimu/blob/main/oke_(1)%5B1%5D.gif">
 ### Hi there 👋
 
 <!--
