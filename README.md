@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/ramamimu/ramamimu/blob/main/oke_(1)%5B1%5D.gif">
-</p><h1 align="center">Hi 👋, I'm Ram, and also called Rama </h1>
+<h1 align="center">Hi 👋, I'm Ram, and also called Rama </h1>
 <h3 align="center">An enthusiast Computer Science</h3>
 
 - 🔭 I’m currently study at **Institute Technology Sepuluh Nopember, Surabaya**
