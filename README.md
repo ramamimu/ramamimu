@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ram, and also called Rama </h1>
-<h3 align="center">An enthusiast Computer Science</h3>
+<h3 align="center">A boy Who Love Computer Science</h3>
 
 - 🔭 I’m currently study at **Institute Technology Sepuluh Nopember, Surabaya**
 
-- 🌱 I’m currently learning **vue.js**
+- 🌱 I’m currently learning **vue.js**, **React.js**, and **Next.js**
 
 - 📫 How to reach me **ahm.f.ramadhani@gmail.com** or **ahmadramadhani.205025@mhs.its.ac.id**
 
