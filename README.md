@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ram, and also called Rama </h1>
+<h1 align="center">Hi 👋, I'm Ram and also called Rama </h1>
 <h3 align="center">A boy Who Love Computer Science</h3>
 
 - 🔭 I’m currently study at **Institute Technology Sepuluh Nopember, Surabaya**
