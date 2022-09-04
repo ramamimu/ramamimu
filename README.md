@@ -1,5 +1,28 @@
-<h1 align="center">Hi 👋, I'm Ram and also called Rama </h1>
+<h1 align="center">Hi 👋, I'm Ram, also called Rama </h1>
 <h3 align="center">A boy Who Love Computer Science</h3>
+<h3 align="center">Especially web development and network programming</h3>
+
+<h2>Tools i used as usual:</h2>
+
+- **FRONT-END**
+
+1. vue.js, include: vuex, pinia, vue-router, vue-konva, vuetify, and others
+2. react.js, include: headless-ui, hooks, and others
+3. next.js
+4. tailwind css
+5. and other tools like chart.js, axios, and ext.
+
+- **BACK-END**
+1. express, include: user-datagram-protocol (UDP) code, transmission-control-protovol (TCP) code, socket-io, API, and others
+2. node.js, also npm
+
+- **DATABASES**
+1. postgress-sql
+2. relational-databases
+
+`Don't forget to check my linkedin out :D. come to runnin' your mouse to aside bar and see you on the top :'D`
+
+<hr/>
 
 - 🔭 I’m currently study at **Institute Technology Sepuluh Nopember, Surabaya**
 
