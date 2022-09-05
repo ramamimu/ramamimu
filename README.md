@@ -20,7 +20,7 @@
 1. postgress-sql
 2. relational-databases
 
-`Don't forget to check my linkedin out :D. come to runnin' your mouse to aside bar and see you on the top :'D`
+`Don't forget to check my linkedin out :D. go runnin' your mouse to aside bar and let's see what i've done with my proyect :'D`
 
 <hr/>
 
