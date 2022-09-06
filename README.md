@@ -10,7 +10,7 @@
 2. react.js, include: headless-ui, hooks, and others
 3. next.js
 4. tailwind css
-5. and other tools like chart.js, axios, and ext.
+5. and other tools like chart.js, fetch api, and ext.
 
 - **BACK-END**
 
