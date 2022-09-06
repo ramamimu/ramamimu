@@ -13,10 +13,13 @@
 5. and other tools like chart.js, axios, and ext.
 
 - **BACK-END**
-1. express, include: user-datagram-protocol (UDP) code, transmission-control-protovol (TCP) code, socket-io, API, and others
-2. node.js, also npm
+
+1. express, include: API, and others
+2. node.js, include: user-datagram-protocol (UDP) 'dgram', transmission-control-protovol (TCP) 'net', and also npm
+3. socket.io
 
 - **DATABASES**
+
 1. postgress-sql
 2. relational-databases
 
