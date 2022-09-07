@@ -6,22 +6,24 @@
 
 - **FRONT-END**
 
-1. vue.js, include: vuex, pinia, vue-router, vue-konva, vuetify, and others
-2. react.js, include: headless-ui, hooks, and others
+1. vue.js : vuex, pinia, vue-router, vue-konva, vuetify, and others
+2. react.js : headless-ui, hooks, and others
 3. next.js
 4. tailwind css
 5. and other tools like chart.js, fetch api, and ext.
 
 - **BACK-END**
 
-1. express, include: API, and others
-2. node.js, include: user-datagram-protocol (UDP) 'dgram', transmission-control-protovol (TCP) 'net', and also npm
-3. socket.io
+1. express : API, and others
+2. node.js : user-datagram-protocol (UDP) 'dgram', transmission-control-protovol (TCP) 'net', and also npm
+3. socket.io 
+4. firebase : firestore, firebase authentification
 
 - **DATABASES**
 
 1. postgress-sql
 2. relational-databases
+3. firebase-collection (no-sql)
 
 `Don't forget to check my linkedin out :D. go runnin' your mouse to aside bar and let's see what i've done with my project :'D`
 
