@@ -12,6 +12,7 @@
 4. tailwind css
 5. chart.js
 6. fetch api
+7. gsap : javascript animation
 
 - **BACK-END**
 
