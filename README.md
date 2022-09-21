@@ -9,10 +9,11 @@
 1. vue.js : vuex, pinia, vue-router, vue-konva, vuetify, and others
 2. react.js : headless-ui, hooks, and others
 3. next.js
-4. tailwind css
-5. chart.js
-6. fetch api
-7. gsap : javascript animation
+4. typescript
+5. tailwind css
+6. chart.js
+7. fetch api
+8. gsap : javascript animation
 
 - **BACK-END**
 
