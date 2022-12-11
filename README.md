@@ -26,7 +26,7 @@
 
 1. postgress-sql
 2. relational-databases
-3. firebase-collection (no-sql)
+3. firebase-firestore (no-sql)
 
 `Don't forget to check my linkedin out :D. go runnin' your mouse to aside bar and let's see what i've done with my project :'D`
 
