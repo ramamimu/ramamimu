@@ -28,7 +28,6 @@
 2. relational-databases
 3. firebase-firestore (no-sql)
 
-`Don't forget to check my linkedin out :D. go runnin' your mouse to aside bar and let's see what i've done with my project :'D`
 
 <hr/>
 
