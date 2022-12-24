@@ -6,34 +6,22 @@
 
 - **FRONT-END**
 
-1. vue.js : vuex, pinia, vue-router, vue-konva, vuetify, and others
-2. react.js : headless-ui, hooks, and others
-3. next.js
-4. typescript
-5. tailwind css
-6. chart.js
-7. fetch api
-8. gsap : javascript animation
+vue.js, react.js, next.js, typescript, tailwind css, apexchart.js, gsap.
 
 - **BACK-END**
 
-1. express : API, and others
-2. node.js : user-datagram-protocol (UDP) 'dgram', transmission-control-protovol (TCP) 'net', and also npm
-3. socket.io 
-4. firebase : firestore, firebase authentification
+node.js, express, socketIO, firebase.
 
 - **DATABASES**
 
-1. postgress-sql
-2. relational-databases
-3. firebase-firestore (no-sql)
+postgress, firebase, mySQL.
 
 
 <hr/>
 
 - 🔭 I’m currently study at **Institute Technology Sepuluh Nopember, Surabaya**
 
-- 🌱 I’m currently learning **vue.js**, **React.js**, and **Next.js**
+- 🌱 I’m currently learning and also ethusiast with **web development in advance**
 
 - 📫 How to reach me **ahm.f.ramadhani@gmail.com**
 
