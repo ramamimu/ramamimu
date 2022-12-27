@@ -2,11 +2,11 @@
 <h3 align="center">A boy Who Love Computer Science</h3>
 <h3 align="center">Especially web development and network programming</h3>
 
-<h2>Tools i used as usual:</h2>
+<h2>here are tools i used as usual:</h2>
 
 - **FRONT-END**
 
-vue.js, react.js, next.js, typescript, tailwind css, apexchart.js, gsap.
+vue.js, react.js, next.js, typescript, tailwind css, apexchart, gsap.
 
 - **BACK-END**
 
@@ -14,7 +14,7 @@ node.js, express, socketIO, firebase.
 
 - **DATABASES**
 
-postgress, firebase, mySQL.
+postgress, firestore, mySQL.
 
 
 <hr/>
