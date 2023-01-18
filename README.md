@@ -21,7 +21,7 @@ postgress, firestore, mySQL.
 
 - 🔭 I’m currently study at **Institute Technology Sepuluh Nopember, Surabaya**
 
-- 🌱 I’m currently learning **implementation docker on microservice architecture**
+- 🌱 I’m currently learning **golang and implementation docker on microservice architecture**
 
 - 📫 How to reach me **ahm.f.ramadhani@gmail.com** or <a href="https://www.linkedin.com/in/ahmad-ferdiansyah-ramadhani" target="_blank">my-linkedin</a>
 
