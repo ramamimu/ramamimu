@@ -10,12 +10,15 @@ vue.js, react.js, next.js, typescript, tailwind css, apexchart, gsap.
 
 - **BACK-END**
 
-node.js, express, socketIO, firebase.
+node.js, golang, express, socketIO, firebase.
 
 - **DATABASES**
 
 postgress, firestore, mySQL.
 
+- **Others**
+
+Docker
 
 <hr/>
 
