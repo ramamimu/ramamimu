@@ -2,7 +2,7 @@
 <h3 align="center">A boy Who Love Computer Science</h3>
 <h3 align="center">Especially web development and network programming</h3>
 
-<h2>here are tools i used as usual:</h2>
+<h2>Tools i used:</h2>
 
 - **FRONT-END**
 
