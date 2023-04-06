@@ -18,7 +18,7 @@ postgress, firestore, mySQL.
 
 - **Others**
 
-Docker
+Docker, managing cloud services
 
 <hr/>
 
