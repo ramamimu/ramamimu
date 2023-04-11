@@ -6,7 +6,7 @@
 
 - **FRONT-END**
 
-vue.js, react.js | next.js, typescript, tailwind css, apexchart, gsap.
+vue.js, react.js | next.js, typescript, tailwind css.
 
 - **BACK-END**
 
@@ -18,7 +18,7 @@ postgres, firestore, mySQL.
 
 - **Others**
 
-Docker, ROS (Robot Operating System), GCP (Google Cloud Platform)
+Docker, ROS (Robot Operating System), GCP (Google Cloud Platform), Net Programming (UDP-uni/multicast, TCP)
 
 <hr/>
 
