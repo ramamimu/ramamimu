@@ -6,7 +6,7 @@
 
 - **FRONT-END**
 
-vue.js, react.js | next.js, typescript, tailwind css.
+vue.js | react.js | next.js | typescript | tailwind css.
 
 - **BACK-END**
 
