@@ -16,9 +16,13 @@ node.js, golang, express, socket.IO, firebase.
 
 postgres, firestore, mySQL.
 
+- **Cloud**
+
+Google Cloud Platform(GCP), Google Kubernetes Engin, Cloud Build (CI/CD)
+
 - **Others**
 
-Docker, ROS (Robot Operating System), GCP (Google Cloud Platform), Net Programming (UDP-uni/multicast, TCP)
+Docker, ROS (Robot Operating System), Net Programming (UDP-uni/multicast, TCP)
 
 <hr/>
 
