@@ -4,15 +4,15 @@
 
 <h2>Tools :</h2>
 
-- **FRONT-END**
+- **Front-End**
 
 vue.js | react.js | next.js | typescript | tailwind css.
 
-- **BACK-END**
+- **Back-End**
 
 node.js, golang, express, socket.IO, firebase.
 
-- **DATABASES**
+- **Databases**
 
 postgres, firestore, mySQL.
 
