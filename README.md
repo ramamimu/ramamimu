@@ -10,7 +10,7 @@ vue.js | react.js | next.js | typescript | tailwind css.
 
 - **Back-End**
 
-node.js, golang, express, socket.IO, firebase.
+node.js, express, socket.IO, firebase.
 
 - **Databases**
 
