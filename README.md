@@ -18,7 +18,7 @@ postgres, firestore, mySQL.
 
 - **Cloud**
 
-Google Cloud Platform(GCP), Google Kubernetes Engin, Cloud Build (CI/CD)
+Google Cloud Platform(GCP), Google Kubernetes Engine, Cloud Build (CI/CD)
 
 - **Others**
 
