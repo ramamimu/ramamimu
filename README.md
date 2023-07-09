@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ram</h1>
 <h3 align="center">I love Computer Science</h3>
 <h3 align="center">I learn deeper into web development and network programming</h3>
+<h3 align="center">I really exited to dive into frontend, back-end, cloud computing, and mobile development field</h3>
 
-<h2>Tools :</h2>
+<h2>These are my related tools:</h2>
 
 - **Front-End**
 
-vue.js | react.js | next.js | typescript | tailwind css.
+vue.js, react.js, next.js, typescript, tailwind css.
 
 - **Back-End**
 
@@ -28,7 +29,7 @@ Docker, ROS (Robot Operating System), Net Programming (UDP-uni/multicast, TCP)
 
 - 🔭 I’m currently study at **Institute Technology Sepuluh Nopember, Surabaya**
 
-- 🌱 I’m currently learning **microservice architecture**
+- 🌱 I’m currently learning **golang and kubernetes**
 
 - 📫 How to reach me **ahm.f.ramadhani@gmail.com** or <a href="https://www.linkedin.com/in/ahmad-ferdiansyah-ramadhani" target="_blank">my-linkedin</a>
 
