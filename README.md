@@ -11,11 +11,11 @@ vue.js, react.js, next.js, typescript, tailwind css.
 
 - **Back-End**
 
-node.js, express, socket.IO, firebase.
+node.js, express, socket.IO.
 
 - **Databases**
 
-postgres, firestore, mySQL.
+database migration, postgres, firebase, mySQL.
 
 - **Cloud**
 
@@ -23,13 +23,13 @@ Google Cloud Platform(GCP), Google Kubernetes Engine, Cloud Build (CI/CD)
 
 - **Others**
 
-Docker, ROS (Robot Operating System), Net Programming (UDP-uni/multicast, TCP)
+Docker, ROS (Robot Operating System), Net Programming (UDP uni/multicast, TCP)
 
 <hr/>
 
 - 🔭 I’m currently study at **Institute Technology Sepuluh Nopember, Surabaya**
 
-- 🌱 I’m currently learning **golang and kubernetes**
+- 🌱 I’m currently learning **kubernetes and mobile development**
 
 - 📫 How to reach me **ahm.f.ramadhani@gmail.com** or by <a href="https://www.linkedin.com/in/ahmad-ferdiansyah-ramadhani" target="_blank">linkedin</a>
 
