@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ram</h1>
 <h3 align="center">I love Computer Science</h3>
-<h3 align="center">I'm diving deeper into web development and network programming</h3>
+<h3 align="center">I'm diving deeper in fullstack and network programming</h3>
 <h3 align="center">I'm really exited to dive into frontend, back-end, cloud computing, and mobile development field</h3>
 
 <h2>These are my related tools:</h2>
@@ -16,6 +16,10 @@ golang, node.js, express, socket.IO, flask.
 - **Databases**
 
 postgres, firebase, mySQL, db migration.
+
+- **Cloud**
+
+GCP and AWS
 
 - **Others**
 
