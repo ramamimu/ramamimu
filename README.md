@@ -27,7 +27,7 @@ Docker, ROS (Robot Operating System), Net Programming (UDP uni/multicast, TCP)
 
 <hr/>
 
-- 🔭 Study at **Institute Technology Sepuluh Nopember, Surabaya**
+- 🔭 Studying at **Institute Technology Sepuluh Nopember, Surabaya**
 
 - 🌱 Currently learning **golang and mobile development**
 
