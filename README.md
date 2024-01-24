@@ -19,7 +19,7 @@ postgres, firebase, mySQL, db migration.
 
 - **Cloud**
 
-GCP and AWS
+Google Cloud Platform
 
 - **Others**
 
