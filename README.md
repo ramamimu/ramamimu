@@ -29,7 +29,7 @@ Docker, ROS (Robot Operating System), Net Programming (UDP uni/multicast, TCP)
 
 - 🔭 Studying at **Institute Technology Sepuluh Nopember, Surabaya**
 
-- 🌱 Currently learning **golang and mobile development**
+- 🌱 Currently learning **clean code architecture and kotlin for mobile development**
 
 - 📫 Reach me on email **ahm.f.ramadhani@gmail.com** or <a href="https://www.linkedin.com/in/ahmad-ferdiansyah-ramadhani" target="_blank">linkedin</a>
 
