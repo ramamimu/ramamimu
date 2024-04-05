@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ram</h1>
-<h3 align="center">I love Computer Science</h3>
-<h3 align="center">I'm diving deeper in fullstack and network programming</h3>
-<h3 align="center">I'm really exited to dive into frontend, back-end, cloud computing, and mobile development field</h3>
+<h3 align="center">Love Computer Science</h3>
+<h3 align="center">I'm diving deeper in fullstack programming</h3>
+<h3 align="center">I'm really excited to dive into frontend, back-end, cloud computing, and mobile development</h3>
 
 <h2>These are my related tools:</h2>
 
