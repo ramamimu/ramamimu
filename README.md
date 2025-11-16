@@ -10,11 +10,11 @@ vue.js + nuxt, react.js + next, tailwind css.
 
 - **Back-End**
 
-golang, node.js, fastapi, flask, django.
+golang, node.js, python.
 
 - **Databases**
 
-postgres, firebase, mySQL, db migration, db optimization.
+postgres, firebase, mySQL, query optimization.
 
 - **Cloud**
 
@@ -24,7 +24,7 @@ Google Cloud Platform
 
 - Jump to my portofolio website 👉 <a href="https://www.ramamimu.com" target="_blank">ramamimu.com</a>
 
-- Currently learning **clean code architecture**
+- Currently learning **rust**
 
 - Reach me on email _ahm.f.ramadhani@gmail.com_ or <a href="https://www.linkedin.com/in/ahmad-ferdiansyah-ramadhani" target="_blank">linkedin</a>
 
